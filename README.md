@@ -1,2 +1,2 @@
 # CNN_BInary_Classification_models
-for data open datasets repository
+Download train and test dataset from kaggle and merge into a folder 
